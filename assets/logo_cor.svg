@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 789.49 445.51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_3-2);
+      }
+
+      .cls-2 {
+        fill: url(#Gradiente_sem_nome_3);
+      }
+
+      .cls-3 {
+        fill: url(#Gradiente_sem_nome_5-2);
+      }
+
+      .cls-4 {
+        fill: url(#Gradiente_sem_nome_5);
+      }
+    </style>
+    <linearGradient id="Gradiente_sem_nome_5" data-name="Gradiente sem nome 5" x1="584.6" y1="320.28" x2="667.1" y2="320.28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#008ca7"/>
+      <stop offset="1" stop-color="#095da6"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_5-2" data-name="Gradiente sem nome 5" x1="670.02" y1="320.78" x2="789.49" y2="320.78" xlink:href="#Gradiente_sem_nome_5"/>
+    <linearGradient id="Gradiente_sem_nome_3" data-name="Gradiente sem nome 3" x1="0" y1="222.75" x2="454.42" y2="222.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#095da6"/>
+      <stop offset="1" stop-color="#008ca7"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_3-2" data-name="Gradiente sem nome 3" x1="274.31" y1="222.76" x2="621.3" y2="222.76" xlink:href="#Gradiente_sem_nome_3"/>
+  </defs>
+  <g id="Camada_1-2" data-name="Camada 1">
+    <g>
+      <g>
+        <path class="cls-4" d="M667.1,232.25l-18.11,64.13-8.8,31.44-22.89,80.48h-32.7l22.89-80.48,8.8-31.44,18.11-64.13h32.7Z"/>
+        <path class="cls-3" d="M789.49,304.18v33.45l-44.01,15.59-31.44,11.07-44.01,15.59v-33.45l27.92-9.81,16.1-5.78,28.42-10.06-28.42-10.06-16.1-5.79-27.92-9.81v-33.45l44.01,15.59,31.44,11.07,44.01,15.85Z"/>
+      </g>
+      <path class="cls-2" d="M454.42,445.51h-89.1l-40.73-79.56-97.38-190.93-97.38,190.93-40.73,79.56H0l40.73-79.56L227.21,0l186.48,365.95,40.73,79.56Z"/>
+      <polygon class="cls-1" points="578.61 408.3 601.49 327.82 610.29 296.38 621.3 257.4 621.3 37.22 555.04 88.11 435.76 179.82 316.48 88.11 274.31 55.72 344.81 193.52 381.69 221.7 435.76 263.58 489.83 221.7 555.04 171.87 555.04 408.3 578.61 408.3"/>
+    </g>
+  </g>
+</svg>
