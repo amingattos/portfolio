@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+:root {
+   --color1: #095da6;
+   --color2: #008ca7;
+   --color3: #000000;
+   --color4: #ffffff;
+}
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Lato', sans-serif;
+}
+section{
+   padding: 0 5rem;
+}
+#sectionHeader{
+   background: url(../assets/bgHeader.png);
+   background-size: 100%;
+   background-repeat: no-repeat;
+   background-color: var(--color3);
+   height: 100vh;
+}
+header{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+header nav{
+   display: flex;
+   flex-wrap: wrap;
+   gap: 1.5rem;
+   margin-top: 2.19rem;
+   margin-bottom: 2.19rem;
+}
+header nav a{
+   color: var(--color4);
+   text-decoration: none;
+   font-size: 1.5rem;
+}
+.sidesHeaderContent{
+   display: flex;
+   height: 70vh;
+   margin-top: 1.87rem;
+}
+.leftSideHeader{
+   color: var(--color4);
+   display: flex;
+   flex: 1;
+   flex-direction: column;
+   justify-content: center;
+   /* background-color: #008ca7; */
+}
+.leftSideHeader p{
+   font-size: 2rem;
+}
+.leftSideHeader h2{
+   font-size: 7.5rem;
+}
+.iconsMainSkills{
+   display: flex;
+   gap: 1.87rem;
+   margin-top: 1.87rem;
+}
+.rightSideHeader{
+   display: flex;
+   flex: 2;
+   justify-content: center;
+   /* background-color: antiquewhite; */
+}
+.rightSideHeader img{
+
+}
