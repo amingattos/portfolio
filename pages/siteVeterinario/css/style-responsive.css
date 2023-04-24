@@ -1,0 +1,137 @@
+@media screen and (max-width: 1261px){
+   header nav {
+      gap: 2rem;
+  }
+}
+@media screen and (max-width: 1158px){
+   .leftSide1{
+      align-items: center;
+      text-align: center;
+   }
+   .section-1 .marginWeb {
+      gap: 3.125rem;
+  }
+}
+@media screen and (max-width: 1131px){
+   .cardsServices{
+      justify-content: center;
+   }
+}
+@media screen and (max-width: 1124px){
+   .marginWeb {
+      gap: 3.125rem;
+  }
+  .leftSide2{
+   align-items: center;
+   text-align: center;
+  }
+  .rightSide3{
+   align-items: center;
+   text-align: center;
+  }
+}
+@media screen and (max-width: 1117px){
+ #headerItems{
+   gap: 3rem !important;
+ }
+}
+@media screen and (max-width: 905px){
+   .divsFooter{
+      gap: 3rem;
+   }
+   .aboutFooter{
+      gap: 2rem;
+   }
+   .btnsAbout{
+      gap: 1rem;
+   }
+}
+@media screen and (max-width: 793px){
+   .aboutFooter{
+      align-items: center;   
+      order: 2;   
+   }
+   .btnsAbout{
+      align-items: center;
+   }
+   .contactFooter{
+      align-items: center;
+   }
+   .rightSide1 img{
+      max-width: 100%;
+   }
+  .rightSide2 img{
+      max-width: 100%;
+  }
+  .leftSide3 img{
+      max-width: 100%;
+  }
+}
+@media screen and (max-width: 700px){
+   .leftSide1 p {
+      max-width: 30rem;
+  }
+  .leftSide2 p {
+      max-width: 30rem;
+  }
+  .rightSide3 p{
+      max-width: 30rem;
+  }
+  .titleServices p{
+   max-width: 30rem;
+  }
+  .leftSide1 h1{
+      max-width: 29rem;
+      font-size: 3rem;
+      line-height: 4rem;
+  }
+  .leftSide2 h1{
+   max-width: 29rem;
+  }
+  .rightSide3 h1{
+      max-width: 29rem;
+  }
+
+}
+@media screen and (max-width: 560px){
+   .txtForm input{
+      max-width: 25rem;
+   }
+}
+@media screen and (max-width: 479px){
+   .leftSide1 p {
+      max-width: 20rem;
+  }
+  .leftSide2 p {
+      max-width: 20rem;
+  }
+  .rightSide3 p{
+      max-width: 20rem;
+  }
+  .titleServices p{
+   max-width: 20rem;
+  }
+  .leftSide1 h1{
+      max-width: 20rem;
+      font-size: 3rem;
+      line-height: 4rem;
+  }
+  .leftSide2 h1{
+   max-width: 20rem;
+  }
+  .rightSide3 h1{
+      max-width: 20rem;
+  }
+  .buttons{
+   justify-content: center;
+  }
+  header nav {
+   justify-content: center;
+   gap: 3rem;
+}
+}
+@media screen and (max-width: 460px){
+   .txtForm input{
+      max-width: 20rem;
+   }
+}
